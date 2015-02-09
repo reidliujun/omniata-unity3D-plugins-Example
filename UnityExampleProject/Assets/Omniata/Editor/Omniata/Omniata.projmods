@@ -1,0 +1,12 @@
+{
+    "group": "Omniata",
+    "libs": [],
+    "frameworks": [],
+    "headerpaths": [],                    
+    "files":   ["OmniataiOSPlugin.m",
+		"iOmniataAPI.framework"],
+    "folders": [],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "compiler_flags": [],
+    "linker_flags": []
+}
