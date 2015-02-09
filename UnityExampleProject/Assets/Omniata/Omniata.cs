@@ -42,8 +42,10 @@ namespace OmniataSDK{
 			get;
 			private set;
 		}
+		#pragma warning disable 414
 		private static string api_key;
 		private static string uid;
+		#pragma warning restore 414
 		private static string org;
 		public static string analyzerUrl;
 		public static string engagerUrl;
